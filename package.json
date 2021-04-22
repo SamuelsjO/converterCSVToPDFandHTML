@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^3.0.0",
+    "instal": "^0.0.1-security"
+  }
+}
